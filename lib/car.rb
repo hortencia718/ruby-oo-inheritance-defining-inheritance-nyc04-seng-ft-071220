@@ -10,4 +10,4 @@ end
 
 
 
-# We use the < to inherit the Car class from Vehicle. Notice that there are no methods defined in the Car class.
+# We use the < to inherit the Car class from Vehicle.  there are no methods defined in the Car class.
